@@ -9,7 +9,7 @@ All works related to VirtualSMP must be licensed under a [Creative Commons Attri
 (NonCommercial does not apply to YouTube or Twitch content)
 
 ### License summary:
-- Attribution: Give credit to [NathanBunTV](https://twitter.com/NathanBunTV), link back to the GitHub, and indicate if any changes were made to the world.
+- Attribution: Give credit to [NathanBunTV](https://twitter.com/NathanBunTV), link back to the main [GitHub branch](https://github.com/Nathan43615/VirtualSMP-Season-One), and indicate if any changes were made to the world.
 - NonCommercial: Any means of generating profit is not permitted, with the exception of YouTube and Twitch content.
 - ShareAlike: Any redistribution of either the original world OR a modified version must be shared under the same [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
