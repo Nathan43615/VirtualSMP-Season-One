@@ -1,5 +1,3 @@
-![VirtualSMP Icon](VirtualSMP Icon.png)
-
 # VirtualSMP
 
 Public copy of the VirtualSMP Season One minecraft world.
