@@ -22,7 +22,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 - License summary:
-Attribution: Give credit to NathanBunTV (https://twitter.com/NathanBunTV), link back to the original download on CurseForge, and indicate if any changes were made to the world.
+Attribution: Give credit to NathanBunTV (https://twitter.com/NathanBunTV), link back to the main GitHub branch (https://github.com/Nathan43615/VirtualSMP-Season-One), and indicate if any changes were made to the world.
 NonCommercial: Any means of generating profit is not permitted, with the exception of YouTube and Twitch content.
 ShareAlike: Any redistribution of either the original world OR a modified version must be shared under the same CC BY-NC-SA 4.0 license.
 
