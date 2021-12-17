@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/iron_nugget"
+	},
+	"overrides": [{
+		"predicate": {
+			"custom_model_data": 43615
+		},
+		"model": "custom/nathanbun_tophat"
+	}]
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "optifine/cit/source_models/transparent_icon",
+        "layer1": "./shot_tequila"
+    }
+}
